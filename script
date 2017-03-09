@@ -1,0 +1,247 @@
+line
+0 0 0 100 0 0
+line
+100 0 0 100 100 0
+line
+100 100 0 0 100 0
+line
+0 100 0 0 0 0
+line
+0 0 100 100 0 100
+line
+100 0 100 100 100 100
+line
+100 100 100 0 100 100
+line
+0 100 100 0 0 100
+line
+0 0 0 0 0 100
+line
+0 100 0 0 100 100
+line
+100 100 0 100 100 100
+line
+100 0 0 100 0 100
+display
+save
+pic1.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic2.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic3.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic4.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic5.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic6.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic7.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic8.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic9.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic10.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic11.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic12.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic13.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic14.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic15.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic16.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic17.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic18.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic19.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic20.ppm
+ident
+rotate
+x 10
+rotate
+y 10
+rotate
+z 10
+apply
+display
+save
+pic21.ppm

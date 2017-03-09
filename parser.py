@@ -61,12 +61,14 @@ def parse_file( fname, points, transform, screen, color ):
         elif lines[i] == "apply":
             matrix_mult(transform, points)
         elif lines[i] == "display":
+            clear_screen(screen)
             draw_lines(points, screen, color)
             display(screen)
         elif lines[i] == "save":
             i += 1
+            clear_screen(screen)
             draw_lines(points, screen, color)
             display(screen)
-            save_extension(screen, lines[i])
+            save_ppm(screen, lines[i])
         i += 1
     pass

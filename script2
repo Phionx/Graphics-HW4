@@ -1,0 +1,69 @@
+line
+0 0 0 100 0 0
+line
+100 0 0 100 100 0
+line
+100 100 0 0 100 0
+line
+0 100 0 0 0 0
+line
+0 0 100 100 0 100
+line
+100 0 100 100 100 100
+line
+100 100 100 0 100 100
+line
+0 100 100 0 0 100
+line
+0 0 0 0 0 100
+line
+0 100 0 0 100 100
+line
+100 100 0 100 100 100
+line
+100 0 0 100 0 100
+display
+save
+pic1.ppm
+ident
+scale
+1 2 3
+apply
+display
+save
+pic2.ppm
+ident
+move
+100 100 0
+apply
+display
+save
+pic3.ppm
+ident
+rotate
+z 20
+apply
+display
+save
+pic4.ppm
+ident
+rotate
+x 20
+apply
+display
+save
+pic5.ppm
+ident
+rotate
+y 20
+apply
+display
+save
+pic6.ppm
+ident
+rotate
+y 20
+apply
+display
+save
+pic7.ppm
